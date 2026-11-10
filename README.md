@@ -1,15 +1,9 @@
-Latihan Praktik — Pengenalan Array
-
 Identitas Siswa
 
 - Nama: Dimas Anjar Bahari Putra
 - Kelas: XI RPL 2
 - NIS: 4479
 - Mata Pelajaran: Pemrograman Web
-
-Deskripsi
-
-Repository ini berisi hasil pengerjaan latihan praktik JavaScript tentang pengenalan Array.
 
 Daftar Soal
 
